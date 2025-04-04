@@ -4,9 +4,9 @@ Mi TFG se va a basar en una página web sobre la pesca, básicamente és una pá
 
 # Tecnologías que voy utilizar
 
-React
-Laravel
-MySQL
+React,
+Laravel,
+MySQL.
 
 # Instalación de React
 
